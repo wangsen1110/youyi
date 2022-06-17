@@ -1,8 +1,8 @@
 {
     "appName":"优易",
-    "VersionCodeService":20220519,
+    "VersionCodeService":20220616,
     "update":"Yes",
-    "new_version":"5.2.0F",
+    "new_version":"5.2.0M",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "update_log":"1、完善覆盖模块。2、完善干扰模块。3、完善容量模块。4、完善MDT及相关应用功能。5、优化工具操作界面。 \n『外省或非移动用户请打开【管理】-【关于-小助手】-点击置顶链接-手动下载更新。』",
     "target_size":"83M",
@@ -12,6 +12,6 @@
     "appzenglikey":"27BF1ABAAA43BA1C5DDFBD40882B54F1",
     "classesDex20210131":"670863681",
     "new_md5":"8EDD8FAAC6393FDBB1479347D05D16FE",
-    "hideserverVersionCode":"20220602",
+    "hideserverVersionCode":"20220616",
     "constraint":false
 }
