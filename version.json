@@ -4,7 +4,7 @@
     "update":"Yes",
     "new_version":"5.2.1H",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
-    "update_log":"1、修复已知问题。2、完善负荷均衡。3、完善容量模块。4、新增反馈管理。6、其他优化若干。 \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
+    "update_log":"1、修复已知问题。2、完善负荷均衡。3、完善容量模块。4、新增问题反馈和反馈管理。6、其他优化若干。 \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
     "target_size":"219M",
     "youyiServerIp":"https://211.137.64.61:8083/youyi/",
     "classesDex20210309":"2408976500",
