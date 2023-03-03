@@ -1,10 +1,10 @@
 {
     "appName":"优易",
-    "VersionCodeService":20230218,
+    "VersionCodeService":20230303,
     "update":"Yes",
-    "new_version":"5.2.2Q",
+    "new_version":"5.2.2R",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
-    "update_log":"1、新增地市干扰统计、干扰分析、文档管理、信号分析等功能。2、重构室内打点和小工具功能模块。3、修复目前所有已知问题。4、UI美化。5、其他模块优化若干。 \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
+    "update_log":"1、新增地市干扰统计、干扰分析、文档管理、信号分析、SEQ查询、SEQ查询管理、信令管理、白名单管理等功能。2、小区扩容分析模块已完整上线可用。3、修复目前所有已知问题。4、UI美化。5、其他模块优化若干。 \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
     "target_size":"219M",
     "youyiServerIp":"https://211.137.64.61:8083/youyi/",
     "classesDex20210309":"2408976500",
@@ -12,6 +12,6 @@
     "appzenglikey":"27BF1ABAAA43BA1C5DDFBD40882B54F1",
     "classesDex20210131":"670863681",
     "new_md5":"8EDD8FAAC6393FDBB1479347D05D16FE",
-    "hideserverVersionCode":20230218,
+    "hideserverVersionCode":20230303,
     "constraint":false
 }
