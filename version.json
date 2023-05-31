@@ -2,7 +2,7 @@
     "appName":"优易",
     "VersionCodeService":20230526,
     "update":"Yes",
-    "new_version":"5.2.2U",
+    "new_version":"5.2.2V",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "update_log":"功能问题修复，增加黑点投诉，数据脱敏，广电图层区分，数据模型更新，优化干扰分析各项判断，优化各项分析操作使用； \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
     "target_size":"122M",
@@ -12,6 +12,6 @@
     "appzenglikey":"27BF1ABAAA43BA1C5DDFBD40882B54F1",
     "classesDex20210131":"670863681",
     "new_md5":"8EDD8FAAC6393FDBB1479347D05D16FE",
-    "hideserverVersionCode":20230526,
+    "hideserverVersionCode":20230531,
     "constraint":false
 }
