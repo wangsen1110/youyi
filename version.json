@@ -4,6 +4,7 @@
     "update":"Yes",
     "new_version":"5.2.2T",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
+    "apk_file_url_tem":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "update_log":"1.文档管理分类；2.各项条件选择视图更新；3.电子围栏功能管理、围栏图层添加；4.安全操作记录管理；5.考场干扰全省信息查询修改； \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
     "target_size":"122M",
     "youyiServerIp":"https://211.137.64.61:8083/youyi/",
