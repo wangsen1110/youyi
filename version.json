@@ -1,11 +1,11 @@
 {
     "appName":"优易",
-    "VersionCodeService":20231117,
+    "VersionCodeService":20231223,
     "update":"Yes",
-    "new_version":"5.2.3B",
+    "new_version":"5.2.3C",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "apk_file_url_tem":"http://211.137.64.61:8081/youyi/20s/download.apk",
-    "update_log":"1.修复工参过滤问题，2.电子围栏输入修改，图层边界触发修改，3.mate60无法解析问题，4.安全验证token刷新问题，密码校验问题，5.线上使用其他个别问题修复； \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
+    "update_log":"1.业务管理功能开放，2.分公司管理增加批量用户管理，3.开放mate60兼容bate版，4.修复部分已知使用问题； \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
     "target_size":"145M",
     "youyiServerIp":"https://211.137.64.61:8083/youyi/",
     "classesDex20210309":"2408976500",
@@ -13,6 +13,6 @@
     "appzenglikey":"27BF1ABAAA43BA1C5DDFBD40882B54F1",
     "classesDex20210131":"670863681",
     "new_md5":"8EDD8FAAC6393FDBB1479347D05D16FE",
-    "hideserverVersionCode":20230804,
+    "hideserverVersionCode":20231223,
     "constraint":false
 }
