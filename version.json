@@ -5,7 +5,7 @@
     "new_version":"5.2.3C",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "apk_file_url_tem":"http://211.137.64.61:8081/youyi/20s/download.apk",
-    "update_log":"1.业务管理功能开放，2.分公司管理增加批量用户管理，3.开放mate60兼容bate版，4.修复部分已知使用问题； \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
+    "update_log":"1.上线智能优化管理模块，2.修正业务处理入参输入类型，3.修复弹窗问题及部分已知使用问； \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
     "target_size":"145M",
     "youyiServerIp":"https://211.137.64.61:8083/youyi/",
     "classesDex20210309":"2408976500",
