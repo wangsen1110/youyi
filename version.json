@@ -2,7 +2,7 @@
     "appName":"优易",
     "VersionCodeService":20240109,
     "update":"Yes",
-    "new_version":"5.2.3D",
+    "new_version":"5.2.3E",
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "apk_file_url_tem":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "update_log":"1.上线智能优化管理模块，2.修正业务处理入参输入类型，3.修复弹窗问题及部分已知使用问； \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
