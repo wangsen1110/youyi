@@ -6,7 +6,7 @@
     "apk_file_url":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "apk_file_url_tem":"http://211.137.64.61:8081/youyi/20s/download.apk",
     "update_log":"1.Bate版本更新（各项问题修复）可在'综合页'实验功能中切换，2.首页图层场景范围细分，3.考场干扰功能更新，4.MDT接口修改及相关优化， 5.SDK升级涉及问题修改；  \n『唯一永久下载更新链接http://211.137.64.61:8081/youyi/20s/download.apk，仅限湖北区域移动网络可用』",
-    "target_size":"145M",
+    "target_size":"223M",
     "youyiServerIp":"https://211.137.64.61:8083/youyi/",
     "classesDex20210309":"2408976500",
     "appzengliid":"300012127036",
